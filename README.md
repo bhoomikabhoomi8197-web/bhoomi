@@ -22,16 +22,6 @@ sed -i 's/\r$//' README.sh
 chmod +x README.sh
 bash README.sh
 ```
-
-## After Completing This Paste This Command :
-
-```bash
-gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \
-    --member serviceAccount:my-sa-123@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com --role roles/editor
-```
-
-</div>
-```
 ```bash
 echo -n "Enter PROJECTID2: "
 read PROJECTID2
