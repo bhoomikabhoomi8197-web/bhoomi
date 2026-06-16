@@ -17,7 +17,7 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-wget -O README.sh "https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoom/refs/heads/main/README.sh"
+wget -O README.sh "https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoomi/refs/heads/main/README.sh"
 sed -i 's/\r$//' README.sh 
 chmod +x README.sh
 bash README.sh
