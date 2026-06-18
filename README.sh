@@ -20,7 +20,7 @@ clear
 # Welcome Banner
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
-echo "${CYAN_TEXT}${BOLD_TEXT}          DR. ABHISHEK'S CLOUD IAM LAB                    ${RESET_FORMAT}"
+echo "${CYAN_TEXT}${BOLD_TEXT}          bhoomika R CLOUD IAM LAB                    ${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 echo "${WHITE_TEXT}This lab demonstrates IAM role management and VM instance creation${RESET_FORMAT}"
