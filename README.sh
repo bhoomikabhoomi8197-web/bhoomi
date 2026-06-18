@@ -181,6 +181,6 @@ echo "${GREEN_TEXT}${BOLD_TEXT}             LAB EXECUTION COMPLETED SUCCESSFULLY
 echo "${GREEN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 echo "${MAGENTA_TEXT}${BOLD_TEXT}💡 For more cloud tutorials and labs:${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}Subscribe to Dr. Abhishek's YouTube Channel${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}Subscribe to bhoomika R YouTube Channel${RESET_FORMAT}"
 echo "${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@bhoomika R${RESET_FORMAT}"
 echo
